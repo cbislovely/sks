@@ -142,7 +142,7 @@ DOMAIN,traffic.mogujie.com
 DOMAIN,wmlog.meituan.com
 
 # (0~9)
-# > 58 同城
+# > 58同城
 DOMAIN,adshow.58.com
 DOMAIN,track.58.com
 DOMAIN,tracklog.58.com
