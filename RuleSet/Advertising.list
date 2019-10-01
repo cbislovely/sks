@@ -1,4 +1,4 @@
-# Advertising 
+# Advertising 广告（以及隐私追踪）
 # > General
 DOMAIN-KEYWORD,adservice
 DOMAIN-KEYWORD,analytics
@@ -142,7 +142,7 @@ DOMAIN,traffic.mogujie.com
 DOMAIN,wmlog.meituan.com
 
 # (0~9)
-# > 58同城
+# > 58 同城
 DOMAIN,adshow.58.com
 DOMAIN,track.58.com
 DOMAIN,tracklog.58.com
